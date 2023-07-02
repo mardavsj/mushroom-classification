@@ -9,3 +9,7 @@ category was merged with the toxic category. The Guide asserts unequivocally tha
 there is no simple rule for judging a mushroom's edibility, such as "leaflets three, leave it
 be" for Poisonous Oak and Ivy.
 The main goal is to predict which mushroom is poisonous & which is edible.
+
+## Link for DataSet :
+
+[mushrooms-info](https://www.kaggle.com/datasets/uciml/mushroom-classification)
